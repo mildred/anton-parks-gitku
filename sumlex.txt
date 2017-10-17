@@ -1,0 +1,18 @@
+*nu*
+    n., image, likeness, picture, figurine, statue [NU archaic frequency: 101].
+    adj. & adv., no, not; without; negative.
+    pron., a pronominal prefix in a compound noun describing a person; or a phonetic writing for |lú|.
+
+*nu₁₁*
+    [|šir|]: light; fire, lamp; alabaster [|nu₁₁| archaic frequency: 32].
+
+*ùz*
+*ud₅*
+*ut₅*
+    she-goat [|ud₅| archaic frequency: 109; concatenates 3 signs].
+
+*šir*
+*sir₄*
+    testicles (many + to go out + to flow; cf., |hir|, |nir|, and |gtildeiš₂,₃|) [|šir| archaic frequency: 24; concatenates 2 sign variants].
+
+vim:tw=78:ts=8:sts=4:sw=4:ft=help:norl:

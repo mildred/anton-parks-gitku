@@ -1,0 +1,136 @@
+Sumerian vowel-only (V) words~
+
+
+
+
+
+
+*a*  *e₄*
+
+    n., water; watercourse, canal; seminal fluid; offspring; father; tears;
+    flood. [|a| archaic frequency: 519]
+
+    interj., alas!.
+
+    prep., locative suffix - where; in; when - denotes movement towards or in
+    favor of a person.
+
+    def. article, nominalizing suffix for a noun or noun clause, denoting 'the'.
+
+*á*
+
+    (cf., |áhi|).
+
+*a₅*
+
+    (cf., |aka|).
+
+*e*
+
+    (cf., |ég|).
+
+*é*
+
+    house, household; temple; plot of land [|e₂| archaic frequency: 649;
+    concatenates 4 signs].
+
+*è*
+
+    (cf., |éd|).
+
+*e₁₁*
+
+    (cf., |èd|).
+
+*i*
+
+    n., cry of pain (derived from |ér|, |ír|, 'tears; complaint' ?) [|i| archaic
+    frequency: 17].
+
+    v., to capture, defeat, overcome (cf., |éd|, |è;| |i|)
+
+*ì*
+
+    (cf., |ìa|).
+
+*i₇*
+
+    (cf., |ída|).
+
+*u*
+
+    (cf., |hà|).
+
+*ú*
+
+    n., plant; vegetable; grass; food; bread; pasture; load [|u₂| archaic
+    frequency: 225; concatenates 3 signs].
+
+    v., to nourish, support.
+
+    adj., strong, powerful (man).
+
+*ù*
+
+    n., sleep (cf., |u₅|). [according to S. Lieberman, |u|, |ù|, and |u₄| were
+    pronounced /o/]
+
+    v., to sleep.
+
+    prep., and; the prospective modal prefix
+
+    if; when; after; often used as a polite imperative.
+
+    pron., a pronominal prefix in a compound noun, to derive a more specific
+    meaning.
+
+*u₃* *u₄* *u₈*
+
+    n., an expression of protest; cries, screams; the grunting, panting of
+    battle; fight, dispute.
+
+    v., to bend over.
+
+*u₄*
+
+    (cf., |ud|).
+
+*u₅*
+
+    n., male bird, cock; totality; earth pile or levee; raised area (sometimes
+    written |ù|) [|u₅| archaic frequency: 1].
+
+    v., to mount (in intercourse); to be on top of; to ride; to board (a boat);
+    to steer, conduct.
+
+    adj., (raised) high, especially land or ground (sometimes written |ù|).
+
+*u₆*
+
+    (cf., |ug₆|).
+
+*u₈*
+
+    (cf., |us₅|).
+
+*u₁₈* [|gišgal|]
+
+    huge.
+
+*u₂₀* [|še|]
+
+    barley.
+
+------------------------------------------------------------------------------
+
+ Copyright © 1996-1999 John Alan Halloran, Los Angeles, California.  All Rights
+ Reserved.  Last modified on August 9, 1999.
+
+http://www.sumerian.org/sumv.htm
+
+
+
+
+
+
+vim:tw=78:ts=8:sts=4:sw=4:ft=help:norl:

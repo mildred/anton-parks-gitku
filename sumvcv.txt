@@ -1,0 +1,396 @@
+Sumerian vowel-consonant-vowel (VCV) words~
+
+
+
+
+
+
+*aba*  *ab*
+
+    lake; sea [|ab| archaic frequency: 384; concatenates 2 sign variants].
+
+*abba*
+
+    (cf., |ab-ba|).
+
+*ubi* (ku6)
+
+    a marine and fluvial fish [|ubi| archaic frequency: 7; concatenates 2
+    signs].
+
+*ubu* [|aš|]
+
+    area measure, = 1/2 of an iku (= 50 |sar|).
+
+*ada*  *ad*
+
+    n., father; shout; song [|ad| archaic frequency: 36; concatenates 3 sign
+    variants].
+
+    v., to balk.
+
+*adda₂*  *ad₃**₆*
+
+    carcass, corpse; skeleton [|adda| archaic frequency: 4].
+
+*adda₄*  *ád*
+
+    to dispatch, send; to drive away; shrub, thornbush [? |kišik| archaic
+    frequency: 21; concatenates 3 sign variants].
+
+*ída*  *íd* *i₇*
+
+    river; main canal; watercourse (|éd|,'to issue', |+| |a|,'water').
+
+*udu*
+
+    sheep; small cattle; ram, wether [|udu| archaic frequency: 452; concatenates
+    2 signs].
+
+*aga₃*
+
+    diadem, circlet, crown (of legitimate kingship); turban [|tun₃| archaic
+    frequency: 96; concatenates 3 sign variants].
+
+*uga* (mu&#154;en)
+
+    raven.
+
+*egi₂*
+
+    (cf., |egir₂|/3).
+
+*égi*
+
+    (cf., |ègir|).
+
+*igi*
+
+    n., eye(s); glance; face; aspect, looks; front (reduplicated |ig|, 'door')
+    [|igi| archaic frequency: 21].
+
+    v., to see.
+
+    prep., before, in front of.
+
+*igi*
+
+    reciprocal of a number (= the multiplier that will give 60; the |igi| of 5
+    is 0;12) (abbreviation of igi-ál, 'that which is opposite').
+
+*ugu[U.G&Ugrave;]*
+
+    n., skull; top of the head; top side; upper part; voice (cf., |ùgun|,
+    |ugu₍₄₎|) (|ù|,'after it', |+| |gú|,'neck').
+
+    pron., him, her, them, this one.
+
+    prep., upon, over, on top; after; comparative enhancer of adjectives.
+
+*úgu[A.KA]*
+
+    debits part of account tablet.
+
+*ugu₄* [|ku|]
+
+    to bear, procreate, produce (cf., |ugu₄||-bi|).
+
+*á* a á áka ám
+
+    to measure out, mete; to measure (area, length, time, capacity); to check.
+
+*ù* a ù ùku un(-á)
+
+    people; population; crowd.
+
+*áhi*  *ah₅* *á*
+
+    arm; wing; horn; side; strength; work performance; wages; moment. [|a₂|
+    archaic frequency: 3]
+
+*aka*  *ak* *ag* *a₅*
+
+    to do, act; to place; to make into (something) (with |-si-|) [|ak| archaic
+    frequency: 149; concatenates 2 sign variants].
+
+*àka*
+
+    fleece.
+
+*iku*
+
+    a surface measure of 3600 meters2 = 100 |sar| = 1 square 'rope' = 1/18 |bùr|
+    (plural Akk. form of |ég|, |ék|, 'levee').
+
+*uku₂* *₅*
+
+    (cf., |ukur₃|,|₄|).
+
+*ùku*
+
+    (cf., ùa).
+
+*íla*  *íli* *íl*
+
+    n., carrier.
+
+    v., to lift, carry; to deliver; to bring; to endure; to support; to carry
+    forward (in accounting); to be high; to shine (|íl-i| in mar&ucirc;).
+
+*ili₅*
+
+    to rise, get up.
+
+*illu*
+
+    high water, flood; (amniotic) fluid; resin.
+
+*ùlu*
+
+    (cf., |u₁₈|).
+
+*úllu[KIB]*  *ùl*
+
+    leash; reins [|kib| archaic frequency: 7].
+
+*ama*
+
+    mother [|ama| archaic frequency: 241; concatenates 2 sign variants].
+
+*áma*  *am*
+
+    wild ox or cow (aurochs).
+
+*ama₄* *ama₅* *áme*
+
+    women's quarters; living room.
+
+*eme*
+
+    tongue; speech; plow's share.
+
+(i&#154;)|eme|
+
+    a utensil.
+
+*emma*
+
+    (cf., |enmen|).
+
+*émma*
+
+    (cf., |énmen|).
+
+*éme*
+
+    (cf., |ummeda₍₂₎|).
+
+*eme₃* *₅**₆*
+
+    she-ass, jenny.
+
+*imi*  *im* *em*
+
+    clay, loam, mud; tablet [|im| archaic frequency: 67; concatenation of 2 sign
+    variants].
+
+*imi*  *im* *em*
+
+    wind; direction; weather; storm; cloud; rain (cf., |tumu|).
+
+*umu*  *um*
+
+    old woman; nurse; wise or skillful teacher.
+
+*ùmmu*
+
+    (cf., |ummud|).
+
+*únu*
+
+    (cf., |únug|).
+
+*ùnu(-d)*
+
+    feast; chief cowherd.
+
+*unu₆*
+
+    (cf., |ùnug|).
+
+*ára*  *ár*[|ub|]
+
+    n., praise, glory.
+
+    v., to praise, glorify.
+
+*ara₃* *₅*
+
+    (cf., |hara|).
+
+*ara₄* *;* *ar;* *rà*
+
+    v., to shine; to blaze.
+
+    adj., bright; clear; polished.
+
+*iri*
+
+    (cf., |uru|).
+
+*uri₂*
+
+    Akkadian (cf., |kínda|) [|uri| archaic frequency: 35; |uri₂| archaic
+    frequency: 1].
+
+*ùri[ŠEŠ]*
+
+    (cf., |urin|).
+
+*uri₂* *₅*
+
+    (cf., |urim₂|,|₅|).
+
+*uru₂* (ki) *iri* *rí;* *iri₁₁*
+
+    city, town, village, district [|uru| archaic frequency: 101; concatenation
+    of 5 sign variants; |unug| archaic frequency: 206; concatenates 3 sign
+    variants].
+
+*uru₂* *₅**₁₈*
+
+    n., devastating flood; thunderstorm.
+
+    adj., high, deep.
+
+*ùru(-m)[ŠEŠ]*
+
+    n., watch fire; light; glowing, luminous object.
+
+    v., to watch, guard; to protect.
+
+*uru₄* [|apin|] *ur₁₁*(*-ru*)
+
+    to plow, till, cultivate.
+
+*uru₉*
+
+    stanchion, support.
+
+*uru₁₂*
+
+    same meaning as |ur₍₂|,|₃|,|₄₎| with the mar&ucirc; aspect|-e| suffix and
+    vowel harmony.
+
+*uru₁₆* (*-n*)
+
+    valiant; strong, mighty; clever.
+
+*asa*  *as* *az*
+
+    cage; fetter; bear; myrtle [|az| archaic frequency: 13].
+
+*esi*
+
+    (cf., (na4)|esig|).
+
+*isi*
+
+    pit; clay pit.
+
+*usu*
+
+    skill; strength.
+
+*ussu₂* *ussu₃*
+
+    eight (|ía|, 'five', |+| |e&#154;₅|, 'three').
+
+*a&#154;a₅*
+
+    (cf., |a&#154;ag|).
+
+*e&#154;a*  *e&#154;e₄*
+
+    emmer wheat flour.
+
+*é&#154;&#154;a*
+
+    to be satiated, full.
+
+*é&#154;e*  *é&#154;*[|š&egrave;|]
+
+    rope; measuring tape/cord; length measure, rope = 10 |nindan| rods = 20
+    reeds = 120 cubits = the side of 1 square |iku| in area = 1,0,0 [602]
+    fingers; a surface area measure, = 6 iku; leash (can be an adverbial suffix
+    like |e&#154;|) (e&#154;, 'much', |+| |e&#154;|, 'much') [|še₃| archaic
+    frequency
+
+    152].
+
+*è&#154;e*
+
+    a surface measure = 2.16 hectares or 6 |iku|.
+
+*i&#154;i*
+
+    mountain [|iš| archaic frequency: 88; concatenates 3 sign variants].
+
+*e&#154;&#154;u*
+
+    ear of barley or other grain.
+
+*u&#154;u*
+
+    a crop-devouring insect.
+
+*ù&#154;u*
+
+    thirty (|e&#154;₅|,'three', |+| |hà/u|,'ten').
+
+*itu*  *iti*
+
+    (cf., |itud|).
+
+*iti₆* [|ud.*d*nanna|]
+
+    moonlight.
+
+d|utu|
+
+    the sun as a god (cf., |ud|).
+
+*útu*
+
+    a dish prepared with milk.
+
+*azu*  *úzu* *zu₅*
+
+    doctor (cf., |a-zu|) [|azu| archaic frequency: 7].
+
+*izi[NE]*
+
+    fire (cf., |iz-zi|) [|ne| archaic frequency: 303; concatenation of 4 sign
+    variants].
+
+*uzu*
+
+    flesh; cut of meat; omen (|ùz|, 'goat', |+| |zé|, 'to cut').
+
+*uzu₅*
+
+    evening, sunset.
+
+------------------------------------------------------------------------------
+
+ Copyright © 1996-1999 John Alan Halloran, Los Angeles, California.  All Rights
+ Reserved.  Last modified on August 9, 1999.
+
+http://www.sumerian.org/sumvcv.htm
+
+
+
+
+
+
+vim:tw=78:ts=8:sts=4:sw=4:ft=help:norl:

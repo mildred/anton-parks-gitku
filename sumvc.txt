@@ -1,0 +1,466 @@
+Sumerian vowel-consonant (VC) words~
+
+
+
+
+
+
+*ab*
+
+    window; opening; niche, nook (cf., |aba|) [|ab| archaic frequency: 384;
+    concatenates 2 sign variants (sign also used for |è&#154;| and |aba| - for
+    this reading and meaning in Fara period, see Krebernik, Beschw&ouml;rungen].
+
+*áb*
+
+    domestic cow (|a|,'water, liquid', |+| |íb|,'middle') [|ab₂| archaic
+    frequency: 288].
+
+*ib*
+
+    corner, angle, nook [|ib| archaic frequency: 252; concatenates 2 sign
+    variants].
+
+*íb*  *éb*
+
+    n., middle; waist; loins; thighs.
+
+    v., to be angry; to flare up in anger; to curse, insult.
+
+*ub*
+
+    corner, angle, nook; a small room [|ub| archaic frequency: 124].
+
+(ku&#154;)|ub₃|,|₅|
+
+    a drum.
+
+*ub₄*
+
+    cavity, hole; pitfall.
+
+*ad*
+
+    (cf., |ada|).
+
+*ád*
+
+    (cf., |adda₄|).
+
+*ad₃* *₆*
+
+    (cf., |adda|).
+
+*ad₄*
+
+    lame, cripple.
+
+*éd*  *è;* *i*
+
+    to go out, emerge; to send forth; to lead or bring out; to rise; to sprout;
+    to be or become visible; to appear as a witness (the final |d| appears in
+    mar&ucirc; conjugation) [|ed₂| archaic frequency: 12; concatenates 2 sign
+    variants].
+
+*èd*  *e₁₁*
+
+    to exit; to rise; to descend, set; to bring down (or up); to import; to
+    fetch; to remove; to drain (|è-dè|(|-d|) in mar&ucirc;).
+
+*íd*
+
+    (cf., |ída|).
+
+*id₄* *₈* *it₄*: (cf., |itud|).
+
+*ud*  *u₄*
+
+    n., sun; light; day; time; weather; storm (demon) [|ud| archaic frequency:
+    419].
+
+    prep., when; since.
+
+*úd[&Aacute;Š]*
+
+    emmer (wheat).
+
+*ud₅*
+
+    (cf., |ùz|).
+
+*ag*
+
+    (cf., |ak|).
+
+*ég*  *ék* *íg* *e*
+
+    n., levee, embankment, dike, bund (|a|, |e₄|, 'water', |+| |ig|, 'door')
+    [|eg₂| archaic frequency: 12; concatenates 5 sign variants].
+
+    v., to water; to speak, say (|e| = sing. mar&ucirc;, plural hamtu, and
+    plural mar&ucirc;; cf., |dug₄|, also |di|); to do (as auxiliary verb
+    preceded by a noun).
+
+    demonstrative pron., this one; in the immediate vicinity; suffixed to
+    ergative agent.
+
+    prep., locative/terminative suffix - in; toward.
+
+*ig*
+
+    door, entrance [|ig| archaic frequency: 43; concatenates 2 sign variants].
+
+*ug₂*
+
+    lion; anger, fury; storm.
+
+*ug₄* *₅**₇**₈*
+
+    n., death; dead person.
+
+    v., to kill; to die (singular and plural mar&ucirc; stem; plural hamtu,
+    which is sometimes reduplicated; cf., |ú&#154;|).
+
+*ug₆*  *u₆*[IGI.&Eacute;]: n., amazement; gaze, glance (['EYE' + 'HOUSE']).
+
+    v., to look at; to stare at, gaze; to be impressed.
+
+    adj., astonishing.
+
+*á* *
+
+    |(cf., áa).
+
+*ù* *
+
+    |(cf., ùa).
+
+*àh;* *uh*
+
+    (cf., |lah|).
+
+*uh₃*
+
+    lice, louse; nit; flea; moth; insect, parasite, vermin [|uh₃| archaic
+    frequency: 14; concatenates 2 sign variants].
+
+*úh;* *uh* *ah*
+
+    phlegm; spittle; slaver, froth; paste; venom; malice.
+
+*ak*  *ag*
+
+    genitival suffix: 'of' (cf. also, |aka|).
+
+(i&#154;)|al|
+
+    digging stick; wooden mattock, pickax; forked hoe with from 2 to 4 teeth;
+    spade [|al| archaic frequency: 95].
+
+*al*
+
+    verbal prefix: used immediately before stative verbs; indicates: 1)
+    distance; 2) the speaker is not involved; or 3) the lack of a transitive
+    relationship.
+
+*íl*
+
+    (cf., |íla|).
+
+*il₅*
+
+    (cf., |ili₅|).
+
+*ul*
+
+    n., joy, pleasure, satisfaction; star; flower; bud; ornament; a capacity
+    measure of 36 liters in Presargonic Girsu.
+
+    v., to glitter, shine.
+
+    adj., remote, distant (in time); ancient, enduring.
+
+*ùl*
+
+    (cf., |úllu|).
+
+*ul₄*
+
+    to be quick; to hurry, hasten, harass [? |kišik| archaic frequency: 21;
+    concatenates 3 sign variants].
+
+*am*
+
+    (cf., |àm| and |áma|).
+
+*ám*
+
+    (cf., áa).
+
+*àm[A.AN]*
+
+    the Sumerian enclitic copula - 'to be', occurs after a noun [e.g., William
+    king-is]; who, which, what; (same) as, like (in scholarly lists).
+
+*im*  *em*
+
+    (cf., |imi|).
+
+*ím*
+
+    (cf., |gim₄|).
+
+(gi)|um|
+
+    a rope made of reeds (cf., |umu|).
+
+*an*
+
+    n., sky, heaven; the god An; grain ear/date cluster ('water' + 'high') [|an|
+    archaic frequency: 806].
+
+    v., to be high.
+
+    adj., high.
+
+    prep., in front.
+
+*en*
+
+    n., dignitary; lord; high priest; ancestor (statue); diviner [|en| archaic
+    frequency: 1232; concatenates 3 sign variants].
+
+    v., to rule.
+
+    adj., noble.
+
+*en₂* *en₃*
+
+    n., time; enigmatic background [|en₂| archaic frequency: 17].
+
+    prep., until.
+
+*in*
+
+    he, she; straw; insult, offense, invective [|in| archaic frequency: 21].
+
+*un*
+
+    (cf., ùa).
+
+*ar*
+
+    (cf., |ara₄|).
+
+*ár*
+
+    (cf., |ára|).
+
+*àr*
+
+    (cf., |har|).
+
+*ér*  *ír*
+
+    n., tears; lamentation; prayer; complaint.
+
+    v., to weep.
+
+*ir₁₀*
+
+    n., sweat; smell, odor, scent; perfume, fragrance [|ir| archaic frequency:
+    53; concatenation of 4 sign variants].
+
+    adj., scented, perfumed, fragrant.
+
+*ir₁₀*  *er*
+
+    v., to bring; to lead away (Emesal dialect for |túm|, cf., |re₇|).
+
+*ir₃* *₁₁*
+
+    (cf., |arad₍₂₎|).
+
+*ur*
+
+    n., dog; carnivorous beast; servant; young man, warrior; enemy (cf.,
+    |té&#154;|) [|ur| archaic frequency: 114; concatenation of 3 sign variants].
+
+    v., to tremble.
+
+    adj., humble.
+
+*ur₂* *ur₃* *ur₄*
+
+    to surround; to flood; to throw overboard; to drag (over the ground) (often
+    with -|ni|-); to erase, wipe out; to shear, reap, mow (reduplication class)
+    (cf., |gur₁₀|).
+
+*úr*
+
+    floor; base; lap, loins; thighs, leg(s); root; trunk of a tree [|ur₂|
+    archaic frequency: 78].
+
+*ùr*
+
+    roof; entrance; mountain pass; beam, rafter (cf., |ur₍₂|,|₃|,|₄₎|) [|ur₃|
+    archaic frequency: 27; concatenation of 5 sign variants].
+
+*ur₄*
+
+    (cf., |gur₁₀|,|₁₄|) [? |ur₄| archaic frequency: 41; concatenation of 3 sign
+    variants].
+
+*ur₅* [|har|]
+
+    n., liver; spleen; heart, soul; bulk, main body; foundation; loan;
+    obligation; interest; surplus, profit; interest-bearing debt; repayment;
+    slave-woman (cf., |har|, |mur|) [|ur₅| archaic frequency: 34; concatenation
+    of 2 sign variants].
+
+    inanimate pron., it; these, the referenced; his, hers, theirs.
+
+    v., to chew; to smell; to belch, burp; to roar; to clog, block; to imprison;
+    to be bowed with grief; to rub something in; to rent.
+
+    demonstrative, thus; so; in this way; in the same way; followed by a
+    negation
+
+    not at all.
+
+*ur₁₁*
+
+    (cf., |uru₄|).
+
+*as*
+
+    (cf., |asa|).
+
+*us*  *uz*mu&#154;en
+
+    domestic goose or duck (cf., |bibad|) (loanword into Akkadian) [|us| archaic
+    frequency: 18; concatenation of 2 sign variants].
+
+*ús*  *úz* [|uš|]
+
+    n., side, edge; distance; in geometry: length; height; vertical;
+    perpendicular.
+
+    v., to follow; to drive; to come near to, reach; to let reach; to transport,
+    bring; to join; to be next to, border; to moor, dock; to lean against (cf.,
+    í&#154;).
+
+*us₅*  *u₈*: mother ewe, adult female sheep [|us₅| archaic frequency
+
+    86].
+
+*a&#154;*
+
+    one; unique; alone.
+
+*a&#154;₅*
+
+    spider.
+
+*á&#154;*
+
+    n., wish; curse (abbreviated |tà&#154;| |?|, |a&#154;te| |?|) [|aš₂| archaic
+    frequency: 5].
+
+    v., to desire; to curse.
+
+*a&#154;₃* *₄**₈*
+
+    six (|ía|, 'five', |+| |a&#154;|, 'one').
+
+*e&#154;*
+
+    n., many, much.
+
+    v., to anoint.
+
+    adv., adverbial force suffix (sometimes followed by |-&#154;è|).
+
+*é&#154;*
+
+    (cf., |é&#154;e|).
+
+*è&#154;*
+
+    shrine [|ab| archaic frequency: 384; concatenates 2 sign variants].
+
+*e&#154;₅* *₆**₁₆**₂₁*
+
+    three.
+
+*i&#154;*
+
+    (cf., |i&#154;i|).
+
+*u&#154;*  *ús*
+
+    n., foundation (cf., í&#154;) [|giš₃| archaic frequency: 16; concatenation
+    of 2 sign variants; |uš| archaic frequency: 101; concatenates 2 sign
+    variants].
+
+    v., to support, lift; to stand upon.
+
+*UŠ*
+
+    a length measure, reading unknown, = 6 ropes = 60 |nindan| rods. [|uš|
+    archaic frequency: 101; concatenates 2 sign variants].
+
+*ú&#154;*
+
+    n., blood; blood vessel; death [? ZATU-644 archaic frequency: 65;
+    concatenation of 2 sign variants].
+
+    v., to die; to kill; to block (singular hamtu stem).
+
+    adj., dead.
+
+*ù&#154;*
+
+    placental membrane, afterbirth.
+
+*u&#154;₇*
+
+    spittle.
+
+*u&#154;₈*
+
+    foundation place, base.
+
+*u&#154;₁₁*
+
+    venom, poison; spittle, slaver; moistening; spell, charm.
+
+*az*
+
+    (cf., |asa|).
+
+*uz*
+
+    (cf., |us|).
+
+*úz*
+
+    (cf., |ús|).
+
+*ùz*  *ud₅* *ut₅*: she-goat [|ud₅| archaic frequency
+
+    109; concatenates 3 signs]. 
+
+------------------------------------------------------------------------------
+
+ Copyright © 1996-1999 John Alan Halloran, Los Angeles, California.  All Rights
+ Reserved.  Last modified on August 9, 1999.
+
+http://www.sumerian.org/sumvc.htm
+
+
+
+
+
+
+vim:tw=78:ts=8:sts=4:sw=4:ft=help:norl:
