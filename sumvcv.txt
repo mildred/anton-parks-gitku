@@ -52,7 +52,7 @@ Sumerian vowel-consonant-vowel (VCV) words~
     diadem, circlet, crown (of legitimate kingship); turban [|tun₃| archaic
     frequency: 96; concatenates 3 sign variants].
 
-*uga* (mu&#154;en)
+*uga* (mušen)
 
     raven.
 
@@ -169,7 +169,7 @@ Sumerian vowel-consonant-vowel (VCV) words~
 
     tongue; speech; plow's share.
 
-(i&#154;)|eme|
+(iš)|eme|
 
     a utensil.
 
@@ -304,49 +304,48 @@ Sumerian vowel-consonant-vowel (VCV) words~
 
 *ussu₂* *ussu₃*
 
-    eight (|ía|, 'five', |+| |e&#154;₅|, 'three').
+    eight (|ía|, 'five', |+| |eš₅|, 'three').
 
-*a&#154;a₅*
+*aša₅*
 
-    (cf., |a&#154;ag|).
+    (cf., |ašag|).
 
-*e&#154;a*  *e&#154;e₄*
+*eša*  *eše₄*
 
     emmer wheat flour.
 
-*é&#154;&#154;a*
+*éšša*
 
     to be satiated, full.
 
-*é&#154;e*  *é&#154;*[|š&egrave;|]
+*éše*  *éš*[|š&egrave;|]
 
     rope; measuring tape/cord; length measure, rope = 10 |nindan| rods = 20
     reeds = 120 cubits = the side of 1 square |iku| in area = 1,0,0 [602]
     fingers; a surface area measure, = 6 iku; leash (can be an adverbial suffix
-    like |e&#154;|) (e&#154;, 'much', |+| |e&#154;|, 'much') [|še₃| archaic
-    frequency
+    like |eš|) (eš, 'much', |+| |eš|, 'much') [|še₃| archaic frequency
 
     152].
 
-*è&#154;e*
+*èše*
 
     a surface measure = 2.16 hectares or 6 |iku|.
 
-*i&#154;i*
+*iši*
 
     mountain [|iš| archaic frequency: 88; concatenates 3 sign variants].
 
-*e&#154;&#154;u*
+*eššu*
 
     ear of barley or other grain.
 
-*u&#154;u*
+*ušu*
 
     a crop-devouring insect.
 
-*ù&#154;u*
+*ùšu*
 
-    thirty (|e&#154;₅|,'three', |+| |hà/u|,'ten').
+    thirty (|eš₅|,'three', |+| |hà/u|,'ten').
 
 *itu*  *iti*
 

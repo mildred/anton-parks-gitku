@@ -104,8 +104,8 @@ Sumerian consonant-vowel (CV) words~
 
     ashes; mar&ucirc; form suffix - often indicates a present participle to be
     translated by English -ing or connotes future sense.  Used like the
-    terminative postposition |-&#154;è| after verbal phrases to indicate intent
-    or goal.
+    terminative postposition |-šè| after verbal phrases to indicate intent or
+    goal.
 
 *de₅*  *di₅* [|ri|]
 
@@ -113,7 +113,7 @@ Sumerian consonant-vowel (CV) words~
 
 *de₆* *₂* e₆
 
-    to bring, carry (-|&#154;i|- or -|ta|- denote direction); to continue on
+    to bring, carry (-|ši|- or -|ta|- denote direction); to continue on
     (singular hamtu, cf., |tumu₂|,|₃|, |lah₄|; Emesal |ga₍₁₄₎|).
 
 *di*
@@ -228,10 +228,10 @@ Sumerian consonant-vowel (CV) words~
 
 *gi₄*  *ge₄*
 
-    to return, come back; to send (back) (with -|&#154;i|-); to reject, dislike;
-    to restore; to answer (person to whom answer is given resumed by dative
-    prefix, and with -ni-) (circular motion + to go out, send) [|gi₄| archaic
-    frequency: 37; concatenation of 3 sign variants].
+    to return, come back; to send (back) (with -|ši|-); to reject, dislike; to
+    restore; to answer (person to whom answer is given resumed by dative prefix,
+    and with -ni-) (circular motion + to go out, send) [|gi₄| archaic frequency:
+    37; concatenation of 3 sign variants].
 
 *gi₇*
 
@@ -342,7 +342,7 @@ I, myself; my.
 
 *hu*
 
-    bird (earlier word than |mu&#154;en|).
+    bird (earlier word than |mušen|).
 
 *ia₂* *₇**₉* *í*
 
@@ -424,7 +424,7 @@ I, myself; my.
 
 *ku₇*
 
-    (cf., |kuru&#154;|).
+    (cf., |kuruš|).
 
 *ku₁₀*
 
@@ -440,7 +440,7 @@ I, myself; my.
     to penetrate, pierce, force a way into (in order to see); to know; to look
     after; to have a beard (cf. also, |lal|) [|la₂| archaic frequency: 57].
 
-(i&#154;)|li|
+(iš)|li|
 
     juniper/cedar tree [|li| archaic frequency: 14].
 
@@ -482,7 +482,7 @@ I, myself; my.
 
     to go (Akk. alaaku).
 
-(i&#154;)|má|
+(iš)|má|
 
     boat [|ma₂| archaic frequency: 6].
 
@@ -634,7 +634,7 @@ I, myself; my.
 
     light; fire, lamp; alabaster [|nu₁₁| archaic frequency: 32].
 
-(i&#154;)|pa|
+(iš)|pa|
 
     leaf, bud, sprout; branch; wing; feather [|pa| archaic frequency: 378;
     concatenation of 2 sign variants].
@@ -678,11 +678,11 @@ I, myself; my.
 *ri*
 
     v., to throw, cast; to place, pour, put into; to place upon or against (with
-    -|&#154;i|-); to be located; to touch; to moor a boat; to break open; to
-    expel, remove, throw away, sweep away (with -|ta|-); to emit; to beget; to
-    blow (said of a storm); to inundate; to exchange; to take; to gather, glean;
-    to plan something (|ri| is hamtu form, |ri-g| is mar&ucirc; form, |ri-ri-g|
-    is plural; cf., |rig|) [|ri| archaic frequency: 1].
+    -|ši|-); to be located; to touch; to moor a boat; to break open; to expel,
+    remove, throw away, sweep away (with -|ta|-); to emit; to beget; to blow
+    (said of a storm); to inundate; to exchange; to take; to gather, glean; to
+    plan something (|ri| is hamtu form, |ri-g| is mar&ucirc; form, |ri-ri-g| is
+    plural; cf., |rig|) [|ri| archaic frequency: 1].
 
     adj., far.
 
@@ -826,7 +826,7 @@ lú|su|
 
     (cf., |súg|, |súb|).
 
-*su₉* *;* *&#154;a₄*
+*su₉* *;* *ša₄*
 
     n., red ocher.
 
@@ -844,39 +844,39 @@ lú|su|
 
     to spread (cf., |sud|).
 
-*&#154;a*
+*ša*
 
     to dry up [|ša| archaic frequency: 97].
 
-*&#154;à*
+*šà*
 
-    (cf., |&#154;ag₄|).
+    (cf., |šag₄|).
 
-*&#154;a₄*  *&#154;e₁₃*
+*ša₄*  *še₁₃*
 
     (cf., |su₉|).
 
-*&#154;a₅*
+*ša₅*
 
     to cut, break (reeds).
 
-*&#154;a₆*
+*ša₆*
 
     (cf., |sag₉|).
 
-*&#154;e*
+*še*
 
     n., barley; grain; a small length measure, barleycorn = 1/6 finger = 1/30
     cubit = 1.67 centimeter in Presarg.-OB period; as a surface area measure =
     432 square linear barleycorns = 12 square fingers; as a volume measure =
     1/180 |gín| = 1/3 |gín-tur| = 1 2/3 |sìla| = 360 cubic fingers = 1/10800
     |sar| = approx. 1.667 liters; 1/180 of a |gín| or shekel of silver = ca.
-    0.0463 grams (cf., |&#154;e-ga/ge|) [|še| archaic frequency: 639;
-    concatenates 3 sign variants].
+    0.0463 grams (cf., |še-ga/ge|) [|še| archaic frequency: 639; concatenates 3
+    sign variants].
 
     demonstrative affix, may indicate 'there' within the view of the speaker.
 
-*&#154;è*
+*šè*
 
     n., portion [|še₃| archaic frequency: 152].
 
@@ -884,61 +884,61 @@ lú|su|
     the sake of; until (terminative suffix and in Old Sumerian period
     terminative prefix).
 
-*&#154;e₄*
+*še₄*
 
     (cf., |sed|).
 
-*&#154;e₆*
+*še₆*
 
-    (cf., &#154;e₆).
+    (cf., še₆).
 
-*&#154;e₇*
+*še₇*
 
-    (cf., &#154;è).
+    (cf., šè).
 
-*&#154;e₈*
+*še₈*
 
-    (cf., |&#154;é&#154;|).
+    (cf., |šéš|).
 
-*&#154;e₁₀*
+*še₁₀*
 
     excrement, dung.
 
-*&#154;e₁₇*
+*še₁₇*
 
     (cf., |sed₄|).
 
-*&#154;e₂₉* [|l&uacute;&#215;k&aacute;r* *l&uacute;-k&aacute;r|]
+*še₂₉* [|l&uacute;&#215;k&aacute;r* *l&uacute;-k&aacute;r|]
 
-    (cf., &#154;aa).
+    (cf., šaa).
 
-*&#154;i*
+*ši*
 
     contrapunctive modal prefix; terminative prefix after Old Sumerian period
-    (cf., |&#154;è|).
+    (cf., |šè|).
 
-*&#154;u*
+*šu*
 
     n., hand; share, portion, bundle; strength; control [|šu| archaic frequency:
     360].
 
     v., to pour.
 
-*&#154;ú*
+*šú*
 
-    (cf., |&#154;ú&#154;|).
+    (cf., |šúš|).
 
-*&#154;u₄* (*-g*)
+*šu₄* (*-g*)
 
     to stand; to be deployed, set up (plural, reduplication class).
 
-*&#154;u₄*
+*šu₄*
 
-    (cf., |&#154;u&#154;|).
+    (cf., |šuš|).
 
-*&#154;u₁₂*
+*šu₁₂*
 
-    (cf., |&#154;ùde|).
+    (cf., |šùde|).
 
 *ta*  *dá*
 
@@ -966,7 +966,7 @@ lú|su|
 
     an alkaline plant (?); soapwort (?); cardamon (cf., naa).
 
-*te₈* [|&aacute;|]mu&#154;en
+*te₈* [|&aacute;|]mušen
 
     bearded vulture.
 
@@ -980,9 +980,9 @@ lú|su|
     to interfere (cf., |tud| and |tur₅|) [|tu| archaic frequency: 54;
     concatenates 3 sign variants].
 
-*tu* mu&#154;en
+*tu* mušen
 
-    (cf., |tum₁₂|mu&#154;en).
+    (cf., |tum₁₂|mušen).
 
 *tú*
 

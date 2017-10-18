@@ -8,8 +8,8 @@ Sumerian vowel-consonant (VC) words~
 *ab*
 
     window; opening; niche, nook (cf., |aba|) [|ab| archaic frequency: 384;
-    concatenates 2 sign variants (sign also used for |è&#154;| and |aba| - for
-    this reading and meaning in Fara period, see Krebernik, Beschw&ouml;rungen].
+    concatenates 2 sign variants (sign also used for |èš| and |aba| - for this
+    reading and meaning in Fara period, see Krebernik, Beschw&ouml;rungen].
 
 *áb*
 
@@ -31,7 +31,7 @@ Sumerian vowel-consonant (VC) words~
 
     corner, angle, nook; a small room [|ub| archaic frequency: 124].
 
-(ku&#154;)|ub₃|,|₅|
+(kuš)|ub₃|,|₅|
 
     a drum.
 
@@ -119,7 +119,7 @@ Sumerian vowel-consonant (VC) words~
     n., death; dead person.
 
     v., to kill; to die (singular and plural mar&ucirc; stem; plural hamtu,
-    which is sometimes reduplicated; cf., |ú&#154;|).
+    which is sometimes reduplicated; cf., |úš|).
 
 *ug₆*  *u₆*[IGI.&Eacute;]: n., amazement; gaze, glance (['EYE' + 'HOUSE']).
 
@@ -152,7 +152,7 @@ Sumerian vowel-consonant (VC) words~
 
     genitival suffix: 'of' (cf. also, |aka|).
 
-(i&#154;)|al|
+(iš)|al|
 
     digging stick; wooden mattock, pickax; forked hoe with from 2 to 4 teeth;
     spade [|al| archaic frequency: 95].
@@ -283,8 +283,8 @@ Sumerian vowel-consonant (VC) words~
 
 *ur*
 
-    n., dog; carnivorous beast; servant; young man, warrior; enemy (cf.,
-    |té&#154;|) [|ur| archaic frequency: 114; concatenation of 3 sign variants].
+    n., dog; carnivorous beast; servant; young man, warrior; enemy (cf., |téš|)
+    [|ur| archaic frequency: 114; concatenation of 3 sign variants].
 
     v., to tremble.
 
@@ -336,7 +336,7 @@ Sumerian vowel-consonant (VC) words~
 
     (cf., |asa|).
 
-*us*  *uz*mu&#154;en
+*us*  *uz*mušen
 
     domestic goose or duck (cf., |bibad|) (loanword into Akkadian) [|us| archaic
     frequency: 18; concatenation of 2 sign variants].
@@ -348,60 +348,59 @@ Sumerian vowel-consonant (VC) words~
 
     v., to follow; to drive; to come near to, reach; to let reach; to transport,
     bring; to join; to be next to, border; to moor, dock; to lean against (cf.,
-    í&#154;).
+    íš).
 
 *us₅*  *u₈*: mother ewe, adult female sheep [|us₅| archaic frequency
 
     86].
 
-*a&#154;*
+*aš*
 
     one; unique; alone.
 
-*a&#154;₅*
+*aš₅*
 
     spider.
 
-*á&#154;*
+*áš*
 
-    n., wish; curse (abbreviated |tà&#154;| |?|, |a&#154;te| |?|) [|aš₂| archaic
+    n., wish; curse (abbreviated |tàš| |?|, |ašte| |?|) [|aš₂| archaic
     frequency: 5].
 
     v., to desire; to curse.
 
-*a&#154;₃* *₄**₈*
+*aš₃* *₄**₈*
 
-    six (|ía|, 'five', |+| |a&#154;|, 'one').
+    six (|ía|, 'five', |+| |aš|, 'one').
 
-*e&#154;*
+*eš*
 
     n., many, much.
 
     v., to anoint.
 
-    adv., adverbial force suffix (sometimes followed by |-&#154;è|).
+    adv., adverbial force suffix (sometimes followed by |-šè|).
 
-*é&#154;*
+*éš*
 
-    (cf., |é&#154;e|).
+    (cf., |éše|).
 
-*è&#154;*
+*èš*
 
     shrine [|ab| archaic frequency: 384; concatenates 2 sign variants].
 
-*e&#154;₅* *₆**₁₆**₂₁*
+*eš₅* *₆**₁₆**₂₁*
 
     three.
 
-*i&#154;*
+*iš*
 
-    (cf., |i&#154;i|).
+    (cf., |iši|).
 
-*u&#154;*  *ús*
+*uš*  *ús*
 
-    n., foundation (cf., í&#154;) [|giš₃| archaic frequency: 16; concatenation
-    of 2 sign variants; |uš| archaic frequency: 101; concatenates 2 sign
-    variants].
+    n., foundation (cf., íš) [|giš₃| archaic frequency: 16; concatenation of 2
+    sign variants; |uš| archaic frequency: 101; concatenates 2 sign variants].
 
     v., to support, lift; to stand upon.
 
@@ -410,7 +409,7 @@ Sumerian vowel-consonant (VC) words~
     a length measure, reading unknown, = 6 ropes = 60 |nindan| rods. [|uš|
     archaic frequency: 101; concatenates 2 sign variants].
 
-*ú&#154;*
+*úš*
 
     n., blood; blood vessel; death [? ZATU-644 archaic frequency: 65;
     concatenation of 2 sign variants].
@@ -419,19 +418,19 @@ Sumerian vowel-consonant (VC) words~
 
     adj., dead.
 
-*ù&#154;*
+*ùš*
 
     placental membrane, afterbirth.
 
-*u&#154;₇*
+*uš₇*
 
     spittle.
 
-*u&#154;₈*
+*uš₈*
 
     foundation place, base.
 
-*u&#154;₁₁*
+*uš₁₁*
 
     venom, poison; spittle, slaver; moistening; spell, charm.
 

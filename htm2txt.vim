@@ -1,4 +1,5 @@
 %s/&#138;/Š/ge
+%s/&#154;/š/ge
 %s/&#169;/©/ge
 %s/&ugrave;/ù/ge
 %s/&igrave;/ì/ge

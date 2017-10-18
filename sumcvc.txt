@@ -47,7 +47,7 @@ Sumerian consonant-vowel-consonant (CVC) words~
 *gub*
 
     to stand; to set, erect, install (singular); to set down in writing; to
-    stand by, to serve (with -|da|-); to do service (with -|&#154;i|-); to stand
+    stand by, to serve (with -|da|-); to do service (with -|ši|-); to stand
     aside (with -|ta|-) (to be long and throat-like in open container).
 
 *gúb*
@@ -117,7 +117,7 @@ urudu|lub|(|-bi|)
     father; brother; man; leader [|pap| archaic frequency: 501; concatenation of
     2 sign variants].
 
-(i&#154;)|rab|, |rap|
+(iš)|rab|, |rap|
 
     ring; clamp; fetter, shackle; stock; pillory; snare (to slide + open
     container).
@@ -140,34 +140,34 @@ urudu|lub|(|-bi|)
 
     (cf., |sipad|).
 
-*&#154;ab* (*pa.ib*)
+*šab* (*pa.ib*)
 
-    n., middle; stem (cf., sabad; dug|&#154;ab|) [|šab| archaic frequency
+    n., middle; stem (cf., sabad; dug|šab|) [|šab| archaic frequency
 
     61; concatenation of 2 sign variants].
 
     v., to subtract, deduct; to bite off; to snip out, chip out; to fall out,
     disappear; to apportion (lots); to gather up (portion + divide).
 
-dug|&#154;ab|
+dug|šab|
 
     pot; pail; vessel.
 
-*&#154;ib*  *&#154;ip*
+*šib*  *šip*
 
     exorcism.
 
-*&#154;ub*
+*šub*
 
     to cast, throw; to be cast; (with -|da|-) to drop, let fall; to fall (upon);
-    to fell a tree; (with -|ta|-) to throw out, remove (|&#154;u|, 'hand' +
-    |bu₅|, 'to rush around').
+    to fell a tree; (with -|ta|-) to throw out, remove (|šu|, 'hand' + |bu₅|,
+    'to rush around').
 
-*&#154;ub₆* [|šid|]
+*šub₆* [|šid|]
 
     to lick.
 
-*&#154;uba₂* /3)
+*šuba₂* /3)
 
     n., a precious stone - agate (?); a priest (cf., |sipad|).
 
@@ -347,7 +347,7 @@ gi|kid|
     an amphora in the 30-60 liter range with two neck handles, = 50 |ku-li|,
     Presargonic Girsu.
 
-(i&#154;)|nàd|, |ná|
+(iš)|nàd|, |ná|
 
     bed, couch (|ná| |=| |nú-a|, 'to lie down' + nominative [from R. Englund])
     [|na₂| archaic frequency: 72; concatenates 4 sign variants].
@@ -373,12 +373,12 @@ gi|kid|
     cp., |pa...éd|, 'to show; to make appear'; cf., |ér...pàd|) [|pa₃| archaic
     frequency: 30].
 
-(i&#154;)|rad|[|š&igrave;ta|]
+(iš)|rad|[|š&igrave;ta|]
 
     a tree, possibly a citrus tree [|šita₃|  archaic frequency: 139;
     concatenation of 2 sign variants].
 
-*sed₄* *sed₅* *sed₆* *&#154;ed₇**₁₀**₁₁**₁₂* *&#154;e₄**₅**₁₇**₁₈**₂₃*
+*sed₄* *sed₅* *sed₆* *šed₇**₁₀**₁₁**₁₂* *še₄**₅**₁₇**₁₈**₂₃*
 
     n., cold water; coolness (|si|, 'to fill up', + |éd|, 'to go out').
 
@@ -406,23 +406,23 @@ gi|kid|
 
     adj., long.
 
-*&#154;ed₇* *₁₀**₁₁**₁₂*
+*šed₇* *₁₀**₁₁**₁₂*
 
     (cf., |sed₍₄|,|₅|,|₆₎|).
 
-*&#154;id*  *&#154;ed*
+*šid*  *šed*
 
-    (cf., |&#154;ita₅|).
+    (cf., |šita₅|).
 
-*&#154;id₃* *₄**₅*
+*šid₃* *₄**₅*
 
-    (cf., |&#154;ita₍₄₎|).
+    (cf., |šita₍₄₎|).
 
-*&#154;ùde*  *&#154;ùdu* *&#154;ùd* *&#154;u₁₂*
+*šùde*  *šùdu* *šùd* *šu₁₂*
 
     n., prayer, blessing [|šu₁₂| archaic frequency: 1].
 
-    v., to pray, bless (|&#154;u|, 'hand', |+| |dé|, 'to hail').
+    v., to pray, bless (|šu|, 'hand', |+| |dé|, 'to hail').
 
 *tud*  *tu* *dú*
 
@@ -489,7 +489,7 @@ gi|kid|
     preceded by a noun) (nonfinite form = |di|) (to make a motion in the
     throat).
 
-(i&#154;)|gag|, |kak|
+(iš)|gag|, |kak|
 
     peg; nail, spike; bone; hinge, joint, knee (reduplicated to be long and
     neck-like; cf., |gub|) [|kak| archaic frequency: 46; concatenates 2 sign
@@ -606,7 +606,7 @@ ninda|gúg|
 
     (cf., |zàg|).
 
-*sag₉*  *&#154;ag₅* *sig₆* *sa₆* *&#154;a₆*
+*sag₉*  *šag₅* *sig₆* *sa₆* *ša₆*
 
     n., good fortune; (divine) grace, favor.
 
@@ -618,7 +618,7 @@ ninda|gúg|
 
 *sagi* [|s&igrave;la.šu.du₈|]
 
-    cupbearer (loan from Akk. &#154;aaq&ucirc;).
+    cupbearer (loan from Akk. šaaq&ucirc;).
 
 *sig;* *si*(*-ga*)
 
@@ -647,7 +647,7 @@ ninda|gúg|
     (to be) mild, sweet, good; of fine quality (narrow, fine + throat for
     eating).
 
-*sig₅* *₉**;* *&#154;eg₅**;* *si*
+*sig₅* *₉**;* *šeg₅**;* *si*
 
     n., silence.
 
@@ -678,10 +678,9 @@ ninda|gúg|
 
     the color of the low or setting sun = reddish yellow or gold (cf., |sig|).
 
-*sigga*  *sig₁₄* *&#154;eg₈**₉*
+*sigga*  *sig₁₄* *šeg₈**₉*
 
-    wild mountain boar ? (cf., |&#154;ah|, |&#154;enbar|) [|šeg₉| archaic
-    frequency: 10].
+    wild mountain boar ? (cf., |šah|, |šenbar|) [|šeg₉| archaic frequency: 10].
 
 *sug*
 
@@ -716,7 +715,7 @@ ninda|gúg|
 
     threshing floor; grain pile; a small animal (cf., |su-a|, 'cat').
 
-*&#154;ag₄*  *&#154;à*
+*šag₄*  *šà*
 
     n., intestines; gut; heart; stomach; abdomen; entrails; content; womb; body;
     interior, midst, inside; bed of a river; will, volition; mood; meaning,
@@ -725,25 +724,25 @@ ninda|gúg|
 
     prep., in; at.
 
-*&#154;ag₅*
+*šag₅*
 
-    to slaughter (|&#154;a₅|, 'to cut, break' + |ug₅|,|₇|,|₈|, 'to kill').
+    to slaughter (|ša₅|, 'to cut, break' + |ug₅|,|₇|,|₈|, 'to kill').
 
-*&#154;ag₅*
+*šag₅*
 
     (cf., |sag₉|).
 
-*&#154;eg₄*
+*šeg₄*
 
     frost; cold shudder, chills.
 
-*&#154;eg₈* /9
+*šeg₈* /9
 
     snow; ice (cf., |sigga|).
 
-*&#154;ug*
+*šug*
 
-    (cf., |&#154;uku|).
+    (cf., |šuku|).
 
 *tag*
 
@@ -830,7 +829,7 @@ lú|t&uacute;g|
     drink', + |a|, 'water') [|naga| archaic frequency: 125; concatenation of 2
     sign variants].
 
-(i&#154;)naa₃,₄, naX[|gaz|, |kum|]
+(iš)naa₃,₄, naX[|gaz|, |kum|]
 
     to crush; (with nominative |-a|) pestle.
 
@@ -863,19 +862,18 @@ lú|t&uacute;g|
 
     to cut, break, harvest.
 
-*&#154;a* *a &#154;e₂₉* *he&#154;₅*[|l&uacute;&#215;k&aacute;r*
-*l&uacute;-k&aacute;r|]
+*ša* *a še₂₉* *heš₅*[|l&uacute;&#215;k&aacute;r* *l&uacute;-k&aacute;r|]
 
-    captive (tied up with a rope |é&#154;e|; cf., |lú-é&#154;e|).
+    captive (tied up with a rope |éše|; cf., |lú-éše|).
 
-*&#154;e* *₃₇* *&#154;e₇*
+*še* *₃₇* *še₇*
 
-    rain; to rain (|&#154;u|, 'to pour' + to mete out).
+    rain; to rain (|šu|, 'to pour' + to mete out).
 
-*&#154;e* *₆* *&#154;e₆*
+*še* *₆* *še₆*
 
-    to heat, cook, bake, boil; to be hot; to dry a field (redup. class)
-    (|&#154;a|, 'to dry up' + to mete out).
+    to heat, cook, bake, boil; to be hot; to dry a field (redup. class) (|ša|,
+    'to dry up' + to mete out).
 
 *zà* *
 
@@ -930,7 +928,7 @@ lú|t&uacute;g|
 
 *máh[AL]*
 
-    an adjective for cows (as opposed to |i&#154;| for bulls).
+    an adjective for cows (as opposed to |iš| for bulls).
 
 *pah[LUL]*
 
@@ -938,7 +936,7 @@ lú|t&uacute;g|
 
 *suh₂* *suh₃* *suh₅*
 
-    n., confusion, disorder; encircling wall (cf., (i&#154;)|ù-suh₅|) (|ussu|,
+    n., confusion, disorder; encircling wall (cf., (iš)|ù-suh₅|) (|ussu|,
     'eight', |+| numerous, cf. the ancillary meanings of |imin|, 'seven' - as
     more than seven, eight is confusing) [|suh₃| archaic frequency: 4].
 
@@ -950,7 +948,7 @@ lú|t&uacute;g|
 
     reed matting (fine, narrow + plant + numerous).
 
-*&#154;ah₂*
+*šah₂*
 
     domestic pig (grain + water + numerous (offspring) - pigs efficiently turn
     feed into food) [|šah₂| archaic frequency: 39; concatenation of 3 sign
@@ -991,14 +989,14 @@ lú|t&uacute;g|
 
     (cf., |súkud|).
 
-*&#154;ika*
+*šika*
 
     potsherd; shell; rind (hand, portion + mouth).
 
-*&#154;uku*  *&#154;ug*
+*šuku*  *šug*
 
     allotted food portion, ration, provision; allotted field plot (regularly
-    followed by |rá|) (|&#154;u|, 'portion', |+| |kud|, 'to separate').
+    followed by |rá|) (|šu|, 'portion', |+| |kud|, 'to separate').
 
 *taka*  *taga* *tak* *tag* *tà*
 
@@ -1065,8 +1063,8 @@ lú|t&uacute;g|
 
     n., foot-race.
 
-    v., to fly (towards something, with -|&#154;i|-; out of, with -|ta|- or
-    -|ra|-); to remove; to be far away; to chase (|da|,'to hold, be near', |+|
+    v., to fly (towards something, with -|ši|-; out of, with -|ta|- or -|ra|-);
+    to remove; to be far away; to chase (|da|,'to hold, be near', |+|
     |ul|,'remote, distant' and |ul₄|,'to hasten').
 
 *dalla*
@@ -1141,10 +1139,9 @@ lú|t&uacute;g|
 *gul*
 
     v., to destroy, demolish (as preparation for rebuilding); to be destroyed;
-    to obstruct; to extinguish; to cease; to fall upon (with -|&#154;i|-); to
-    wreck to pieces, to destroy utterly (with -|ta|-) (reduplication class)
-    (|gu₇|, 'to consume' + |ul|, 'ancient, enduring') [|gul| archaic frequency:
-    24].
+    to obstruct; to extinguish; to cease; to fall upon (with -|ši|-); to wreck
+    to pieces, to destroy utterly (with -|ta|-) (reduplication class) (|gu₇|,
+    'to consume' + |ul|, 'ancient, enduring') [|gul| archaic frequency: 24].
 
     adj., evil; enormous.
 
@@ -1155,9 +1152,9 @@ lú|t&uacute;g|
 ** *ala₇* ál; á
 
     to be (somewhere); to be available; to place, put (with |-ni-| or |bi-|); to
-    place into (with |-&#154;i-|); to be with someone (with |-da-|); to have on
-    one's person (with |-da-|); to be possible (with |-da-|); to take an oath;
-    to dwell (|á,| 'storage basket' + |íla|, 'to be high').
+    place into (with |-ši-|); to be with someone (with |-da-|); to have on one's
+    person (with |-da-|); to be possible (with |-da-|); to take an oath; to
+    dwell (|á,| 'storage basket' + |íla|, 'to be high').
 
 ** *èle
 
@@ -1185,8 +1182,7 @@ lú|t&uacute;g|
 
     n., joy (|hé|, 'let there be' + |ul|, 'joy, pleasure').
 
-    v., to be happy; to rejoice over (usually with -|da|-, but also
-    -|&#154;i|-).
+    v., to be happy; to rejoice over (usually with -|da|-, but also -|ši|-).
 
     adj., joyous.
 
@@ -1211,11 +1207,11 @@ lú|t&uacute;g|
 *lal*  *lá*
 
     v., to be high; to hold; to lift; to carry; to hang (from) (with -|ta|-); to
-    weigh; to pay; to deduce; to strap, harness (with -|&#154;i|-); to dress
-    oneself; to place, set; to bind (a reed pillar); to stretch, extend, reach;
-    to load; to lessen, be few, diminish; to accuse, denounce; to fall back,
-    retreat (cf. also, |lá|) (reduplicated |íla|, 'to carry, support') [|la₂|
-    archaic frequency: 57].
+    weigh; to pay; to deduce; to strap, harness (with -|ši|-); to dress oneself;
+    to place, set; to bind (a reed pillar); to stretch, extend, reach; to load;
+    to lessen, be few, diminish; to accuse, denounce; to fall back, retreat (cf.
+    also, |lá|) (reduplicated |íla|, 'to carry, support') [|la₂| archaic
+    frequency: 57].
 
     adj., light, deficient; minus (cf. also, |lá|).
 
@@ -1298,7 +1294,7 @@ lú|t&uacute;g|
     to be/make obscure; to be/make dirty, defiled, disgraced (could refer to
     soot from |bil|,'to burn').
 
-*sal*  *&#154;al*
+*sal*  *šal*
 
     n., uterus; vulva (narrow + numerous) [|sal| archaic frequency: 435].
 
@@ -1324,7 +1320,7 @@ lú|t&uacute;g|
     street; path; trail; road; market place (|si|, 'anything long and narrow', +
     |lá|, 'to extend, reach').
 
-*sìla*  *sìl* *&#154;ál*
+*sìla*  *sìl* *šál*
 
     measure of capacity, liter = 0.842 modern liters in the Neo-Sumerian period;
     measuring pot (|si₁₄|, 'a small pot', + |lá|, 'to weigh'; but cp. also,
@@ -1344,18 +1340,18 @@ lú|t&uacute;g|
 
     (cf., |sug₈|).
 
-*&#154;al*
+*šal*
 
     (cf., |sal|).
 
-*&#154;ál*
+*šál*
 
     (cf., |sìla|).
 
-*&#154;ul*  *sul*
+*šul*  *sul*
 
     n., young man; warrior; invader; a bad disease involving skin eruptions
-    (probably Akkadian loanword from &#154;alaalu, 'to plunder; to deprive').
+    (probably Akkadian loanword from šalaalu, 'to plunder; to deprive').
 
     v., to hurry, hasten, speed up (cf., |ul₄|); to rub into the skin
     (duplication class).
@@ -1423,7 +1419,7 @@ lú|t&uacute;g|
     spouse (husband or wife) (|da|, 'side; nearness; to hold, protect', + |àm|,
     'to be; who') [|dam| archaic frequency: 10].
 
-(i&#154;)|dam|
+(iš)|dam|
 
     the (curved) beam that connects the bottom of the plow to the pole.
 
@@ -1440,7 +1436,7 @@ lú|t&uacute;g|
     to make, fashion, create, build (|dù|, 'to build, make', + |im|, 'clay,
     mud').
 
-(i&#154;)|dím|
+(iš)|dím|
 
     post (cf., |dim|).
 
@@ -1484,7 +1480,7 @@ lú|t&uacute;g|
 
 *géme*  éme(?)
 
-    woman; workwoman; maid; slave-girl (|e&#154;, |'tool', + mí, 'woman').
+    woman; workwoman; maid; slave-girl (|eš, |'tool', + mí, 'woman').
 
 *gim*  *kim* *gin₇*
 
@@ -1494,7 +1490,7 @@ lú|t&uacute;g|
 
 *gim₄*  *ím*
 
-    n., runner(cf., |ka&#154;₄|).
+    n., runner(cf., |kaš₄|).
 
     v., to trot, run (mainly said of animals) (|gi₄|, 'to come back' + |im|,
     'wind').
@@ -1575,7 +1571,7 @@ d|lamma|, |làma|
 
 *lima*  *limi* *lim*
 
-    thousand (four hundred greater than |é&#154;&#215;u,| 'six hundred').
+    thousand (four hundred greater than |éš&#215;u,| 'six hundred').
 
 *limmu₂* *limmu₄* *limmu₅* *lím*
 
@@ -1619,26 +1615,26 @@ d|lamma|, |làma|
 
 *rim₄*
 
-    (cf., |ka&#154;₄|).
+    (cf., |kaš₄|).
 
-*sám*  *&#154;ám* *sa₁₀*
+*sám*  *šám* *sa₁₀*
 
     n., equivalent; (barter) purchase; sale price; merchandise (Akk. loanword
-    from &#154;&acirc;mu(m), 'to buy, purchase', cf., Orel &amp; Stolbova #2281
+    from š&acirc;mu(m), 'to buy, purchase', cf., Orel &amp; Stolbova #2281
     *su'um- 'sell, buy') [|šam₂| archaic frequency: 51].
 
-    v., to buy (with -|&#154;i|-); to sell (with -|ra|-, ablative)
-    (|sa₁₀||-sa₁₀| in mar&ucirc;).
+    v., to buy (with -|ši|-); to sell (with -|ra|-, ablative) (|sa₁₀||-sa₁₀| in
+    mar&ucirc;).
 
 *sim*  *sín*[|nam|]
 
     to strain, filter; to sift (flour); to see through (fine, narrow + to be).
 
-*sim*  *sín*mu&#154;en
+*sim*  *sín*mušen
 
     swallow (Akkadian sinuntu).
 
-*sum*  *&#154;úm* *sím* *sì*
+*sum*  *šúm* *sím* *sì*
 
     to give, lend (with dative) (|sum-mu| in mar&ucirc;) (cf., |sám|) [|sum|
     archaic frequency: 43; concatenates 2 sign variants].
@@ -1647,33 +1643,32 @@ d|lamma|, |làma|
 
     (cf., |sun₄|).
 
-*&#154;im*  *&#154;em;* *&#154;ím*[|nam|] *sim*
+*šim*  *šem;* *ším*[|nam|] *sim*
 
     n., herb; aromatic wood; resin; spice; fragrance, perfume (see comments on
-    |&#154;úm|; sam is 'spice' in Hebrew; cf., |ir-si-im|) [|šim| archaic
-    frequency: 50; concatenates 2 sign variants].
+    |šúm|; sam is 'spice' in Hebrew; cf., |ir-si-im|) [|šim| archaic frequency:
+    50; concatenates 2 sign variants].
 
     adj., fragrant.
 
-*&#154;em₃* *₅*(zabar)
+*šem₃* *₅*(zabar)
 
     tambourine (halhallatu drum in Akkadian) (many + |me|, 'functions').
 
-*&#154;um*
+*šum*
 
-    n., saw; sickle with serrated edge (|&#154;a₅|, 'to cut, break' + |eme|,
-    'tongue, utensil' ?; cf., |&#154;ag₅|, 'to slaughter') [? |tag| archaic
-    frequency: 48 ?; concatenates 7 ? sign variants].
+    n., saw; sickle with serrated edge (|ša₅|, 'to cut, break' + |eme|, 'tongue,
+    utensil' ?; cf., |šag₅|, 'to slaughter') [? |tag| archaic frequency: 48 ?;
+    concatenates 7 ? sign variants].
 
     v., to slaughter, butcher.
 
-*&#154;úm*  *sum*
+*šúm*  *sum*
 
-    garlic; onion (Akkadian loanword from &#154;uumu, 'garlic', related to
-    &#154;ammu, 'plant, drug, medicine', Orel &amp; Stolbova 2185, sam-,
-    'poison').
+    garlic; onion (Akkadian loanword from šuumu, 'garlic', related to šammu,
+    'plant, drug, medicine', Orel &amp; Stolbova 2185, sam-, 'poison').
 
-*&#154;um₄*
+*šum₄*
 
     (cf., suin).
 
@@ -1707,7 +1702,7 @@ d|lamma|, |làma|
 
     to carry (|ta|, 'from', + |ú|, 'food', + |ma₄|, 'to leave').
 
-*tum₁₂* mu&#154;en *tu*mu&#154;en
+*tum₁₂* mušen *tu*mušen
 
     bird of the pigeon and dove family (cf., |tum₂|,|₃|, 'to bring, carry', and
     the term &quot;carrier pigeon&quot; for a homing pigeon).
@@ -1790,11 +1785,10 @@ d|lamma|, |làma|
 *gín*  gi₄
 
     small ax(-head) used as money; shekel (of silver) = ca. 8.333 grams; a
-    surface area measure, 1/60 square |nindan| (|sar|) = 180 surface |&#154;e| =
-    2160 (=36,0) square fingers; a volume measure, = 0.3 cubic meters (Akk.
-    kiinu 'true measure', cf., Orel &amp; Stolbova #1459, *kin-
-    &quot;count&quot;) [|tun₃| archaic frequency: 96; concatenates 3 sign
-    variants].
+    surface area measure, 1/60 square |nindan| (|sar|) = 180 surface |še| = 2160
+    (=36,0) square fingers; a volume measure, = 0.3 cubic meters (Akk. kiinu
+    'true measure', cf., Orel &amp; Stolbova #1459, *kin- &quot;count&quot;)
+    [|tun₃| archaic frequency: 96; concatenates 3 sign variants].
 
 *gìn*
 
@@ -1833,9 +1827,9 @@ d|lamma|, |làma|
 
     n., steadiness, reliability, constancy (to be + at a distinct point).
 
-    v., to go; to send; to come (with dative or -|&#154;i|-) (sing. hamtu, cf.,
-    |du|, |re₇|, |súb|) (Akk. gana 'come!', cf., Orel &amp; Stolbova #892,
-    *gan-/*gin- &quot;go&quot;).
+    v., to go; to send; to come (with dative or -|ši|-) (sing. hamtu, cf., |du|,
+    |re₇|, |súb|) (Akk. gana 'come!', cf., Orel &amp; Stolbova #892, *gan-/*gin-
+    &quot;go&quot;).
 
     adj., ordinary; firm, solid.
 
@@ -1868,7 +1862,7 @@ na4|kín|[|har|]
     tail; reservoir, storage basin, outlet (of a canal); grasp (base/seat +
     high) [|kun| archaic frequency: 2].
 
-(i&#154;)|kun₄|,|₅|
+(iš)|kun₄|,|₅|
 
     ladder; stairs, staircase; threshold, slab, doorsill (base/ground + high).
 
@@ -1926,11 +1920,11 @@ na4|kín|[|har|]
 
     sister (reduplicated |ní|, 'self; body; one's own').
 
-mu&#154;en|nínna|
+mušen|nínna|
 
     nocturnal bird - owl (|nin|, 'fearsome lady', + |a|, nominative suffix; the
     predatory owl with its human-like face probably gave rise to the demon
-    Lilith myth; cf., d|nin-nínna|mu&#154;en).
+    Lilith myth; cf., d|nin-nínna|mušen).
 
 *ninnu*  *ninu*
 
@@ -1994,18 +1988,18 @@ mu&#154;en|nínna|
 
     quarrel, discord.
 
-*&#154;en[SU&#215;A]*
+*šen[SU&#215;A]*
 
     n., a copper pan, pail, vessel; mirror (?) (liquid + stone) [|šen| archaic
     frequency: 66; concatenates 4 sign variants].
 
     adj., clear, pure; polished, shiny.
 
-*&#154;én*
+*šén*
 
     verdigris.
 
-*&#154;ún[MUL]*
+*šún[MUL]*
 
     n., star.
 
@@ -2047,7 +2041,7 @@ mu&#154;en|nínna|
 
 *rap*
 
-    (cf., (i&#154;)|rab|).
+    (cf., (iš)|rab|).
 
 *sipa*
 
@@ -2149,10 +2143,10 @@ mu&#154;en|nínna|
 
 *bùr*
 
-    a square surface measure = 6.48 hectares = 18 |iku| = 3 area |é&#154;e| =
-    1800 |sar| = the amount of land that supported a family (also cf., |bùru|)
-    (from Akkadian buuru IV, &quot;hunger&quot;, but cf., bii/eeru IV,
-    &quot;space, distance&quot;).
+    a square surface measure = 6.48 hectares = 18 |iku| = 3 area |éše| = 1800
+    |sar| = the amount of land that supported a family (also cf., |bùru|) (from
+    Akkadian buuru IV, &quot;hunger&quot;, but cf., bii/eeru IV, &quot;space,
+    distance&quot;).
 
 *bùru(-d)*  *bùr*
 
@@ -2163,7 +2157,7 @@ mu&#154;en|nínna|
 
     v., to receive; to bore through, pierce; to break into (a house).
 
-*buru₄* *₅*mu&#154;en
+*buru₄* *₅*mušen
 
     raven ?, crow ?; sparrow ?; locust, grasshopper (cf., |bìr| for animals in
     plural numbers, |bir| for destructive wreckers, and |bur₁₂|, |bu₍₃|,|₆₎| +
@@ -2226,7 +2220,7 @@ mu&#154;en|nínna|
 
     (cf., |duruna|).
 
-(an&#154;e)|dùr|(ùr)
+(anše)|dùr|(ùr)
 
     he-ass; donkey foal (pack animal - cf., |dur|, 'strap').
 
@@ -2235,10 +2229,10 @@ mu&#154;en|nínna|
     irrigated; moist; fresh; supple (|dé|, 'to water' |+| |ru₅|, 'to send forth
     shoots'; cf., |a-dé|, 'fresh').
 
-(an&#154;e)|dur₉|[|šul|]
+(anše)|dur₉|[|šul|]
 
     donkey stallion (usually written |du₂₄||-ùr| or |dur₉|(ùr)) (cf.,
-    an&#154;e|dùr|(ùr)).
+    anše|dùr|(ùr)).
 
 *dur₁₀*
 
@@ -2362,22 +2356,22 @@ mu&#154;en|nínna|
     409].
 
     v., to store, accumulate; to deliver, deposit; to put, place, set down upon;
-    to make, establish, restore (with |-&#154;i-|); to remove and set elsewhere
-    (with |-ta-|); to expel (with |-da-|) (á-á in mar&ucirc;).
+    to make, establish, restore (with |-ši-|); to remove and set elsewhere (with
+    |-ta-|); to expel (with |-da-|) (á-á in mar&ucirc;).
 
 ** íri ír
 
     n., knife, dagger, sword; thorn; scorpion; lightning flash; road;
-    expedition, trip (|i&#154;, |'tool', |+| |ra|, 'to strike, stab, slay' with
-    vowel harmony) [|gir₂| archaic frequency: 114].
+    expedition, trip (|iš, |'tool', |+| |ra|, 'to strike, stab, slay' with vowel
+    harmony) [|gir₂| archaic frequency: 114].
 
     v., to stab; to fulgurate, lighten, flash.
 
 ** ìri ìr
 
-    n., foot, feet; step; way, path (|i&#154;, |'tool', |+| |uru₉|, 'support';
-    |úr|, 'leg(s)'; cf., |idri| and |u&#154;ur| for similar and different
-    phonetic developments).
+    n., foot, feet; step; way, path (|iš, |'tool', |+| |uru₉|, 'support'; |úr|,
+    'leg(s)'; cf., |idri| and |ušur| for similar and different phonetic
+    developments).
 
     prep., via.
 
@@ -2480,7 +2474,7 @@ mu&#154;en|nínna|
     stream dam, weir (cf. also, |kiri₃|,|₄|) (|ki|,'place', |+| |ir₍₂₎|, 'fluid
     secretion'/ra, 'to flood').
 
-(i&#154;)|kiri₆|
+(iš)|kiri₆|
 
     orchard, garden, palm grove (|ki|, 'place', |+| |ru₅|, 'to send forth
     shoots, buds, or blossoms').
@@ -2537,14 +2531,14 @@ mu&#154;en|nínna|
 
     v., to enter; to bring; to deliver (-|ni|- specifies delivery location); to
     enter before someone (with dative prefix); to let enter (with -|ni|-); enter
-    into the presence of (with -|&#154;i|-); to turn round, turn into, transform
+    into the presence of (with -|ši|-); to turn round, turn into, transform
     (with -|da|-) (singular [?] reduplication class stem; cf., |sun₅|).
 
 *liru*  *liri*
 
     (cf., |lirum|).
 
-(i&#154;/urudu)mar, ar₇
+(iš/urudu)mar, ar₇
 
     n., wagon; winnowing shovel; spoon (|ma₍₃₎|; á,'to go', + flowing motion;
     Akk.  marru &quot;shovel; spade&quot;; Orel &amp; Stolbova #1738 *mar-
@@ -2631,7 +2625,7 @@ na4|nír|[|za.g&iacute;n|]
 
     (cf., |bàra|).
 
-*sar*  *&#154;ar*
+*sar*  *šar*
 
     n., vegetable(s) [|sar| archaic frequency: 102; concatenates 3 sign
     variants].
@@ -2645,16 +2639,16 @@ na4|nír|[|za.g&iacute;n|]
 
     adj., driven out, pursued.
 
-*sar*  *&#154;ar*
+*sar*  *šar*
 
     a surface measure, 'garden plot' = 1 square |ninda| = 60 surface shekels =
     1/100 iku = 4 square reeds = 144 square cubits = 36 meters2; a volume
-    measure of one square |ninda| times 1 |kù&#154;| = 144 |kù&#154;|3 = ca. 18
-    cubic meters = 1,0 |gur| [= 60 |gur|] of capacity = 1,0 |gín| in weight.
+    measure of one square |ninda| times 1 |kùš| = 144 |kùš|3 = ca. 18 cubic
+    meters = 1,0 |gur| [= 60 |gur|] of capacity = 1,0 |gín| in weight.
 
 *sár*
 
-    (cf., |&#154;ár|).
+    (cf., |šár|).
 
 *sír*
 
@@ -2672,9 +2666,9 @@ na4|nír|[|za.g&iacute;n|]
     n., a garden plant; rushes; chaff, chopped straw [? |sur| archaic frequency:
     6].
 
-    v., to delimit, bound, divide (reduplication class ?)(cf., |&#154;ur|)
-    (|si|, 'long and narrow', + |ur|, 'to surround'; cf., |sila|, |sil;| |síl|,
-    |zil;| |si-il|, 'to cut into, divide').
+    v., to delimit, bound, divide (reduplication class ?)(cf., |šur|) (|si|,
+    'long and narrow', + |ur|, 'to surround'; cf., |sila|, |sil;| |síl|, |zil;|
+    |si-il|, 'to cut into, divide').
 
 *súr*
 
@@ -2691,8 +2685,8 @@ na4|nír|[|za.g&iacute;n|]
 
 *sur₆* *₇*
 
-    height; depth; foundation pit (|ús|, |u&#154;|, 'height; foundation; to
-    support, lift', + |uru₂|,|₅|,|₁₈|, |'|high, deep').
+    height; depth; foundation pit (|ús|, |uš|, 'height; foundation; to support,
+    lift', + |uru₂|,|₅|,|₁₈|, |'|high, deep').
 
 *sur₈*
 
@@ -2702,11 +2696,11 @@ na4|nír|[|za.g&iacute;n|]
 
     (cf., |sug₈|).
 
-*&#154;ar*
+*šar*
 
-    (cf., |sar|, |&#154;ar|).
+    (cf., |sar|, |šar|).
 
-*&#154;ár*  *sár*
+*šár*  *sár*
 
     n., totality, all; world; horizon; ball, counter, token; the number 3600 =
     602 (many, much + |àr|, |'|ring, coil').
@@ -2716,47 +2710,46 @@ na4|nír|[|za.g&iacute;n|]
 
     adj., numerous; innumerable.
 
-lú|&#154;ár|
+lú|šár|
 
     a military officer = commander of 3600.
 
-*&#154;ar₈* [|ni|]
+*šar₈* [|ni|]
 
     to interpret, explain.
 
-*&#154;ér*  *&#154;ír*
+*šér*  *šír*
 
-    to shine brightly (cf., |sír|) (Akkadian loan from &#154;araapu(m), 'to
-    burn').
+    to shine brightly (cf., |sír|) (Akkadian loan from šaraapu(m), 'to burn').
 
-*&#154;èr*  *&#154;ìr*
+*šèr*  *šìr*
 
     n., decision.
 
-    v., to bind; to decide (|é&#154;e|, 'rope', + |ur|, 'to surround').
+    v., to bind; to decide (|éše|, 'rope', + |ur|, 'to surround').
 
-*&#154;ir*  *sir₄*
+*šir*  *sir₄*
 
-    testicles (many + to go out + to flow; cf., |hir|, |nir|, and |i&#154;₂,₃|)
+    testicles (many + to go out + to flow; cf., |hir|, |nir|, and |iš₂,₃|)
     [|šir| archaic frequency: 24; concatenates 2 sign variants].
 
-*&#154;ìr[EZEN];* *&#154;ur*
+*šìr[EZEN];* *šur*
 
     n., song; lament (Orel &amp; Stolbova #2258 *sir-/*sur 'sing').
 
     v., to sing.
 
-*&#154;ìr*
+*šìr*
 
-    (cf., |&#154;èr|).
+    (cf., |šèr|).
 
-*&#154;ur*  *sur*
+*šur*  *sur*
 
     to rain; to produce a liquid; to flow, drip; to extract seed oil; to process
     wine and juices; to press (out); to spray out; to brew (beer); to submerge;
-    to flash, gleam (|&#154;u|, 'to pour' + to flow; cf., &#154;e₃,₇).
+    to flash, gleam (|šu|, 'to pour' + to flow; cf., še₃,₇).
 
-*&#154;úr*
+*šúr*
 
     (cf., |sumur|).
 
@@ -2802,7 +2795,7 @@ lú|&#154;ár|
     graphically similar sign, |sug₈|) (repetitive motion + to flow) [? |zar|
     archaic frequency: 15; concatenates 4 sign variants].
 
-(i&#154;)|zar|
+(iš)|zar|
 
     wagon shaft (cf., |za-ra|) (Akkadian loanword from ,serru(m) II).
 
@@ -2839,9 +2832,9 @@ lú|&#154;ár|
 
 *kisi*
 
-    chamber pot (|kà&#154;|, 'urine', |+| |si₁₄|, 'a small pot').
+    chamber pot (|kàš|, 'urine', |+| |si₁₄|, 'a small pot').
 
-*mes*  *mè&#154;*
+*mes*  *mèš*
 
     young man; prince; son; hackberry tree in the elm family (|me|, 'endowment',
     |+| |usu|, 'strength'; Akkadian loanword - meesu I, 'hackberry tree'; cf.,
@@ -2855,69 +2848,67 @@ lú|&#154;ár|
 
     horse (reduplicated si, 'to stand upright').
 
-*&#154;es*
+*šes*
 
-    (cf., |&#154;e&#154;|).
+    (cf., |šeš|).
 
-*di&#154;₂*  *de&#154;*
+*diš₂*  *deš*
 
-    one (|dili|, 'single', |+| |a&#154;|, 'one'; the form resembles that of the
-    semantically appropriate male body part, |i&#154;₂,₃|, e&#154;₂,₃; cf.,
-    |mina|, |min₍₅|,|₆₎|, 'two').
+    one (|dili|, 'single', |+| |aš|, 'one'; the form resembles that of the
+    semantically appropriate male body part, |iš₂,₃|, eš₂,₃; cf., |mina|,
+    |min₍₅|,|₆₎|, 'two').
 
-** i&#154; e&#154;
+** iš eš
 
     n., tree; wood; wooden implement; scepter; tool; organ; plow; natural
     phenomenon (describes a trunk that goes out into many branches and leaves)
     [|giš| archaic frequency: 381].
 
-    adj., describes an animal assigned to the plow (sometimes
-    |i&#154;-&#154;è|).
+    adj., describes an animal assigned to the plow (sometimes |iš-šè|).
 
-** *i&#154;₂₃* e&#154;₂₃ *u&#154;*
+** *iš₂₃* eš₂₃ *uš*
 
-    penis; man (self + to go out + many; cf., |nitah₍₂₎| and |&#154;ir|) [|giš₃|
+    penis; man (self + to go out + many; cf., |nitah₍₂₎| and |šir|) [|giš₃|
     archaic frequency: 16; concatenation of 2 sign variants; |uš| archaic
     frequency: 101; concatenates 2 sign variants].
 
-** *e&#154;₂₃₄* i&#154;₂₃
+** *eš₂₃₄* iš₂₃
 
-    (cf., |e&#154;ta|).
+    (cf., |ešta|).
 
-*ha&#154;*
+*haš*
 
     (cf., |haz|).
 
-*há&#154;;* *ha&#154;₄*
+*háš;* *haš₄*
 
     lower abdomen; loins; back; thigh (numerous + foundation, base).
 
-*he&#154;₅*
+*heš₅*
 
-    (cf., &#154;aa).
+    (cf., šaa).
 
-*hu&#154;*
+*huš*
 
     v., to be angry (compare |guz|, |huz|).
 
     adj., furious, terrible, awesome; wild (said of animals); fiery red (Akk.
-    ru&#154;&#154;&ucirc;).
+    rušš&ucirc;).
 
-*ka&#154;*  *kás*
+*kaš*  *kás*
 
-    beer; alcoholic beverage (ka, 'mouth', |+| |á&#154;|, 'to desire') [|kaš|
-    archaic frequency
+    beer; alcoholic beverage (ka, 'mouth', |+| |áš|, 'to desire') [|kaš| archaic
+    frequency
 
     261; concatenates 4 sign variants].
 
-*kà&#154;*
+*kàš*
 
-    urine (an etymology involving |&#154;e₁₀|, 'excrement', would have to be
-    forced so much, that the homophone |ka&#154;|, 'beer', with its similar
-    appearance, probably replaced the use of |a|, 'water', to mean 'urine' at
-    some point).
+    urine (an etymology involving |še₁₀|, 'excrement', would have to be forced
+    so much, that the homophone |kaš|, 'beer', with its similar appearance,
+    probably replaced the use of |a|, 'water', to mean 'urine' at some point).
 
-*ka&#154;₄*  *kas₄*
+*kaš₄*  *kas₄*
 
     n., speed; runner, courier, messenger; nonresident, noncitizen, tourist
     (place(s) + locative + many) [|kas₄| archaic frequency: 1].
@@ -2926,237 +2917,234 @@ lú|&#154;ár|
 
     adj., quick; fluent.
 
-*ké&#154;*
+*kéš*
 
-    (cf., |ke&#154;da|).
+    (cf., |kešda|).
 
-*ki&#154;*  *ke&#154;*
+*kiš*  *keš*
 
     totality, entire political world (name of the powerful city in the north of
     Sumer that first bound together and defended the cities of Sumer) (places +
     many) [? |kiš| archaic frequency: 46].
 
-(i&#154;)|ki&#154;a₍₂₎|, |ki&#154;i₁₆|/17
+(iš)|kiša₍₂₎|, |kiši₁₆|/17
 
-    (cf., |ki&#154;ik₍₂₎|).
+    (cf., |kišik₍₂₎|).
 
-*ki&#154;i₄*
+*kiši₄*
 
     half; forelock (sign of a freeman; contrast |gàr|, |kàr|) (|ki|, 'place',
-    |+| |&#154;è|, 'portion').
+    |+| |šè|, 'portion').
 
-*ki&#154;i₇* *₈**₉*
+*kiši₇* *₈**₉*
 
-    (cf., |ki&#154;ib₇|,|₈|,|₉|).
+    (cf., |kišib₇|,|₈|,|₉|).
 
-*ku&#154;*  *kus*[|su|]
+*kuš*  *kus*[|su|]
 
-    skin, hide, leather (|ku₅|, 'to cut', |+| |ús|, 'to be joined, next
-    to'/&#154;è, terminative suffix/|&#154;ú|, 'to cover').
+    skin, hide, leather (|ku₅|, 'to cut', |+| |ús|, 'to be joined, next to'/šè,
+    terminative suffix/|šú|, 'to cover').
 
-*kú&#154;*
+*kúš*
 
-    to be tired; to be out of breath; to worry; to calm (|kú&#154;-|(|ù|) in
-    mar&ucirc;) (|aka|, 'to do, act', |+| |ú&#154;|, 'dead').
+    to be tired; to be out of breath; to worry; to calm (|kúš-|(|ù|) in
+    mar&ucirc;) (|aka|, 'to do, act', |+| |úš|, 'dead').
 
-*kù&#154;*
+*kùš*
 
-    ell/cubit = 1/2 meter = 30 fingers [|&#154;u-si|] = distance from elbow to
-    fingertips; forearm; channel (cf., |&#154;u-da|) (|ku|, 'to base, found,
-    build', + many).
+    ell/cubit = 1/2 meter = 30 fingers [|šu-si|] = distance from elbow to
+    fingertips; forearm; channel (cf., |šu-da|) (|ku|, 'to base, found, build',
+    + many).
 
-*ku&#154;₆*
+*kuš₆*
 
-    (cf., |kuru&#154;|).
+    (cf., |kuruš|).
 
-*ku&#154;₇*
+*kuš₇*
 
     devastation, destruction; groom, valet, esquire, body-servant, boy (|ki|,
-    'place', |+| |ú&#154;|, 'to kill').
+    'place', |+| |úš|, 'to kill').
 
-*ku&#154;u*
+*kušu*
 
-    (cf., |ku&#154;um|x).
+    (cf., |kušum|x).
 
-*kú&#154;u*
+*kúšu*
 
     turtle (cf., |šim&#215;k&uacute;šu|, where 'whale' must be meant) (|ku₆|,
-    'fish', |+| |&#154;ú|, 'to cover') [? |uh₃| archaic frequency
+    'fish', |+| |šú|, 'to cover') [? |uh₃| archaic frequency
 
     14; concatenates 2 sign variants].
 
-*li&#154;*
+*liš*
 
-    morsel (happiness + small + &#154;è, 'portion') [|liš| archaic frequency
+    morsel (happiness + small + šè, 'portion') [|liš| archaic frequency
 
     4].
 
-*ma&#154;*
+*maš*
 
-    one-half; twin (|ma₄|, 'to leave, depart, go out', |+| |&#154;è|, 'portion')
+    one-half; twin (|ma₄|, 'to leave, depart, go out', |+| |šè|, 'portion')
     [|maš| archaic frequency
 
     133].
 
-*ma&#154;;* *má&#154;*
+*maš;* *máš*
 
     interest (of a loan); rent; profit; produce, yield (of a field) (|ma₄|, 'to
-    leave, depart, go out', |+| |&#154;è|, 'portion') [|maš| archaic frequency
+    leave, depart, go out', |+| |šè|, 'portion') [|maš| archaic frequency
 
     133].
 
-*má&#154;;* *ma&#154;*
+*máš;* *maš*
 
     kid; he-goat [|maš₂|  archaic frequency: 60].
 
-*má&#154;*
+*máš*
 
     n., extispicy (divination based on the entrails of a sacrificed animal);
     sacrificial animal [|maš₂|  archaic frequency: 60].
 
     v., to scrutinize, inspect.
 
-*mè&#154;*
+*mèš*
 
     (cf., |mes|).
 
-*mu&#154;*
+*muš*
 
     n., snake; reptile (|eme|, 'tongue'/|ma₄|, 'to leave, depart, go out', |+|
-    |ú&#154;|, 'to kill'/|u&#154;₁₁|, 'venom, poison') [|muš| archaic frequency
+    |úš|, 'to kill'/|uš₁₁|, 'venom, poison') [|muš| archaic frequency
 
     3; |bu|: archaic frequency: 393; concatenation of 2 sign variants].
 
     adj., bitter.
 
-*mu&#154;₂* *₃*
+*muš₂* *₃*
 
     n., face, appearance, aspect; diadem; a city's irrigated, cultivated
-    territory; surface (|mu₁₀|, 'female', + á&#154;, 'to desire') [|muš₃|
-    archaic frequency
+    territory; surface (|mu₁₀|, 'female', + áš, 'to desire') [|muš₃| archaic
+    frequency
 
     284; concatenates 2 sign variants].
 
     v., to glisten, shine.
 
-*mu&#154;₄*
+*muš₄*
 
-    a biting insect (cf., the etymology of |mu&#154;|, 'snake').
+    a biting insect (cf., the etymology of |muš|, 'snake').
 
-*mu&#154;₅* [|šeš|]
+*muš₅* [|šeš|]
 
-    bitter (|eme|, 'tongue', |+| |ú|, 'plant', + e&#154;, 'to anoint'; cf.,
-    |&#154;e&#154;|).
+    bitter (|eme|, 'tongue', |+| |ú|, 'plant', + eš, 'to anoint'; cf., |šeš|).
 
-*ni&#154;*  *ne&#154;*
+*niš*  *neš*
 
-    twenty (|ní|, 'self, body', |+| |a&#154;|, 'one [finger, toe]').
+    twenty (|ní|, 'self, body', |+| |aš|, 'one [finger, toe]').
 
-*pe&#154;*
+*peš*
 
     n., womb; palm frond; three [|gir| archaic frequency: 28; concatenation of 4
-    sign variants] (moist container + |ù&#154;|, 'placental membrane'; pa,
-    'leaf, branch', |+| |e&#154;|, 'many, much'; |e&#154;₅|,|₆|,|₁₆|,|₂₁|,
-    'three').
+    sign variants] (moist container + |ùš|, 'placental membrane'; pa, 'leaf,
+    branch', |+| |eš|, 'many, much'; |eš₅|,|₆|,|₁₆|,|₂₁|, 'three').
 
     v., to expand; to be thick, wide.
 
     adj., precious, valuable.
 
-*pe&#154;₇*
+*peš₇*
 
     child; son.
 
-*pé&#154;*  *pí&#154;*
+*péš*  *píš*
 
-    a type of edible mouse (probably derives from |pè&#154;|, 'fig').
+    a type of edible mouse (probably derives from |pèš|, 'fig').
 
-(i&#154;)|pè&#154;|
+(iš)|pèš|
 
-    fig; fig tree (moist container |+| |&#154;è|, 'portion').
+    fig; fig tree (moist container |+| |šè|, 'portion').
 
-*pe&#154;₄* *₁₃*
+*peš₄* *₁₃*
 
     n., river pebble.
 
     v., to be pregnant; to conceive.
 
-*pe&#154;₅* *₆*
+*peš₅* *₆*
 
-    n., deep breathing; scent; spider; combed wool, fluff (cf., |a&#154;₍₅₎|,
+    n., deep breathing; scent; spider; combed wool, fluff (cf., |aš₍₅₎|,
     'spider').
 
     v., to breathe deeply; to make an incision; to pluck apart; to comb and
     clean wool.
 
-*pi&#154;₁₀*  *pe&#154;₁₀**;* *pe&#154;*x(*ki.a*)
+*piš₁₀*  *peš₁₀**;* *peš*x(*ki.a*)
 
     shore, river bank.
 
-*pú&#154;*
+*púš*
 
-    pain; tightness; difficult circumstances (derives from |pe&#154;₄|, 'to be
+    pain; tightness; difficult circumstances (derives from |peš₄|, 'to be
     pregnant').
 
-*su&#154;*
+*suš*
 
-    to sit down; to reside (|su|, 'body, relatives', |+| |u&#154;₈|, 'foundation
-    place, base'; cf., |tu&#154;|).
+    to sit down; to reside (|su|, 'body, relatives', |+| |uš₈|, 'foundation
+    place, base'; cf., |tuš|).
 
-*su&#154;₂* *₃*
+*suš₂* *₃*
 
-    to rub, anoint (with oil) (|su|, 'body', |+| |e&#154;|, 'to anoint').
+    to rub, anoint (with oil) (|su|, 'body', |+| |eš|, 'to anoint').
 
-*&#154;e&#154;*  *&#154;es*
+*šeš*  *šes*
 
     brother; brethren; colleague [|uri₃|=ZATU-595 archaic frequency: 77;
     concatenates 2 sign variants].
 
-*&#154;e&#154;*  *ses*
+*šeš*  *ses*
 
-    n., myrrh (reduplicated e&#154;, 'to anoint').
+    n., myrrh (reduplicated eš, 'to anoint').
 
     v., to taste bitter.
 
     adj., bitter, brackish.
 
-*&#154;e&#154;₂* *&#154;e&#154;₄*
+*šeš₂* *šeš₄*
 
     to anoint; to rub; to erase; to be dense (reduplication class) (reduplicated
-    |e&#154;|, 'to anoint') [|erin=šeš₄| archaic frequency: 105].
+    |eš|, 'to anoint') [|erin=šeš₄| archaic frequency: 105].
 
-*&#154;e&#154;₂* *₃**₄*
+*šeš₂* *₃**₄*
 
     to weep, cry; to mourn; to wail (reduplication class) (to become moist ?).
 
-*&#154;u&#154;₂*  *&#154;u₂**₄*
+*šuš₂*  *šu₂**₄*
 
     to overthrow; to throw down; to go down; to set, become dark, be overcast
     (said of the sun); to cover (with -|da|-) (reduplication class)
-    (reduplicated |&#154;u|, 'hand'; cf., |&#154;ub|) [|šuš₂| archaic frequency:
-    243].
+    (reduplicated |šu|, 'hand'; cf., |šub|) [|šuš₂| archaic frequency: 243].
 
-*&#154;u&#154;₄*
+*šuš₄*
 
-    to fell trees; to chop away (reduplicated |&#154;u|, 'hand').
+    to fell trees; to chop away (reduplicated |šu|, 'hand').
 
-*&#154;u&#154;₅* *₆* *&#154;u₅**₆*
+*šuš₅* *₆* *šu₅**₆*
 
-    bedding, litter, feed, fodder (scattered for animals) (reduplicated
-    |u&#154;|, 'to stand upon').
+    bedding, litter, feed, fodder (scattered for animals) (reduplicated |uš|,
+    'to stand upon').
 
-*té&#154;[UR]*
+*téš[UR]*
 
     n., sexuality, sex; shame, modesty; all kinds, all sorts; each of them
-    (|te|, 'to approach', |+| |á&#154;|, 'to desire'; cf., |a&#154;te|).
+    (|te|, 'to approach', |+| |áš|, 'to desire'; cf., |ašte|).
 
     v., to feel ashamed.
 
     adv., together (often with suffix |-bi|, |-ba| or |-e|).
 
-*tu&#154;*
+*tuš*
 
-    n., home (|te|, 'to approach', |+| |u&#154;₈|, 'foundation place, base').
+    n., home (|te|, 'to approach', |+| |uš₈|, 'foundation place, base').
 
     v. sing., to (cause to) dwell, reside; to be at home; to settle; to set up,
     establish; to sit; to lie down (singular; cf. plural, |duruna|).
@@ -3165,44 +3153,43 @@ lú|&#154;ár|
 
     (cf., |nitah|).
 
-*&#154;ita*  *è&#154;da*
+*šita*  *èšda*
 
-    clean; bathed; a priest (|e&#154;|, 'to anoint', |+| |ta|, |dá|, 'by means
+    clean; bathed; a priest (|eš|, 'to anoint', |+| |ta|, |dá|, 'by means
     of'/|dé|, 'to pour, water') [|šita| archaic frequency: 373; concatenates 7
     sign variants].
 
-(i&#154;)|&#154;íta|, |e&#154;da|
+(iš)|šíta|, |ešda|
 
-    mace (ú&#154;, 'to kill', |+| |ta|, |dá|, 'by means of') [|ešda| archaic
+    mace (úš, 'to kill', |+| |ta|, |dá|, 'by means of') [|ešda| archaic
     frequency
 
     26].
 
-*&#154;ìta*
+*šìta*
 
-    channel, small canal (&#154;è, 'portion' + |ída|, |íd|, |i₇|, 'main canal')
+    channel, small canal (šè, 'portion' + |ída|, |íd|, |i₇|, 'main canal')
     [|šita₃| archaic frequency
 
     139; concatenation of 2 sign variants].
 
-*&#154;ita₄*  *è&#154;da;* *&#154;id₃**₄**₅*
+*šita₄*  *èšda;* *šid₃**₄**₅*
 
-    n., band; bond, tie (|&#154;è|, 'portion', |+| |te|, 'to approach'; cf.,
-    |a&#154;te|, |té&#154;|).
+    n., band; bond, tie (|šè|, 'portion', |+| |te|, 'to approach'; cf., |ašte|,
+    |téš|).
 
     v., to bind; to be together; to join, link with; to couple.
 
     adj., bound, intact.
 
-*&#154;ita₅*  *&#154;it* *&#154;id* *&#154;ed*
+*šita₅*  *šit* *šid* *šed*
 
-    n., measure; number (|&#154;è|, 'portion', |+| |ta|, |dá|, 'nature,
-    character').
+    n., measure; number (|šè|, 'portion', |+| |ta|, |dá|, 'nature, character').
 
     v., to count; to consider; to calculate, figure out; to memorize; to recite;
     to read aloud.
 
-*&#154;ita₆*
+*šita₆*
 
     a type of vessel.
 
@@ -3217,7 +3204,7 @@ lú|&#154;ár|
 *gaz₂*
 
     n., powder; break, fracture; war (chamber + repetitive motion; cf.,
-    (i&#154;)naa₃,₄, naX[|gaz|, |kum|]).
+    (iš)naa₃,₄, naX[|gaz|, |kum|]).
 
     v., to crush; to kill, slaughter (with |-da-|); to vanquish, defeat.
 
@@ -3233,7 +3220,7 @@ trim clip; to castrate (reduplication class
 
     adj., long, shaggy (hair).
 
-*haz*  *ha&#154;*
+*haz*  *haš*
 
     to break or cut off (twigs, branches); to thresh grain (|há|, 'numerous',
     |+| |zé|, 'to cut, pluck').
@@ -3248,8 +3235,8 @@ trim clip; to castrate (reduplication class
 
 *ziz*
 
-    moth (Akk. loanword from saasu, 'moth' and a&#154;aa&#154;u, 'moth', cf.,
-    Orel &amp; Stolbova #1034 *'a&ccedil;u&ccedil;- 'insect').
+    moth (Akk. loanword from saasu, 'moth' and ašaašu, 'moth', cf., Orel &amp;
+    Stolbova #1034 *'a&ccedil;u&ccedil;- 'insect').
 
 *zíz[&Aacute;Š]*
 
